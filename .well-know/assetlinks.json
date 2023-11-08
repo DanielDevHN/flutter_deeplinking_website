@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.danielreyes.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["5B:E7:13:38:BF:C9:E7:BF:67:A9:49:DD:67:25:60:A5:AE:EA:BD:54:7F:D2:C9:BE:E0:4E:6B:99:72:FE:12:8E"]
+    }
+  }]
+  
